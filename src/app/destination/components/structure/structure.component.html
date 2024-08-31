@@ -1,0 +1,32 @@
+<app-header></app-header>
+<body>
+<div class="container">
+    <div>
+        <h2><span>01 </span>PICK YOUR DESTINATION</h2>
+    </div>
+    <section class="flex moon">
+
+        <div class="imagen">
+            <img src="{{data.image}}" all="MOON"/>
+        </div>
+    <div class="texto">
+        <app-planetas></app-planetas>
+        <div class="h1">{{data.name}}</div>
+        <p class="parrafo">
+           {{data.text}}
+        </p>
+        <hr >
+        <div>
+            <div class="divdistance">
+                <span>AVG.DISTANCE</span>
+                <p class="dyt">{{data.distance}}<span style="color:white;">KM</span></p>
+            </div>
+            <div class="divtime">
+                <span>EST. TRAVEL TIME</span>
+                <p class="dyt">{{data.time}} </p>
+            </div>
+        </div>
+    </div>  
+</section>  
+</div>
+</body>

@@ -1,0 +1,17 @@
+div{
+background-color: white;
+width: 274px;
+height: 274px;
+border-radius: 1000px;
+
+}
+
+h2{
+   font-size: 32px;
+   font-weight: 400;
+   line-height: 37px;
+   letter-spacing: 2px;
+   margin: 119px 62px 118px 64px;
+   position: absolute;
+
+}

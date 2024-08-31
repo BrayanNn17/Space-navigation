@@ -1,0 +1,75 @@
+
+.h1{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 100px;
+    margin-top: 37px;
+    }
+    h2{
+    margin:62px 166.5px 0 166.5px;
+    text-transform: uppercase;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 4.724999904632568px;
+    text-align: left;
+    
+    }
+    p{
+    
+    color: #D0D6F9;
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-align: left;
+    
+    }
+    span{
+    padding-right:28px;
+    color: #D0D6F9;
+    }
+    .texto{
+    width: 445px;
+    height: 472px;
+    margin-right: 164px;
+    margin-top: 14px;
+    }
+    
+    
+    .moon{
+        margin-left: 230px;
+        margin-right: 163px;
+        margin-top: 97px;
+    }
+    .container{
+        color:#FFFFFF;
+    }
+    hr{
+        color: #383B4B;
+        height: 1px;
+    width: 444px;
+    
+    margin-bottom: 54px;
+    }
+    .parrafo{
+        margin-bottom: 54px;
+    }
+    .dyt{
+        font-family: 'Bellefair', sans-serif;
+        font-size: 28px;
+        font-weight: 400;
+        line-height: 32px;
+        letter-spacing: 0px;
+        text-align: left;
+        color:#FFFFFF;
+
+    }
+    .divtime{
+        float: right;
+        width: 222px;
+    }
+    .divdistance{
+        float: left;
+        width: 222px;
+    }

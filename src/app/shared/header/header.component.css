@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px 0 020px;
+    
+}
+.menu a{
+    text-decoration: none;
+    color:white;
+    margin-right: 52px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: Barlow Condensed;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 2.700000047683716px;
+    
+}
+.menu a:last child{
+    margin-right: 167px;
+}
+.line hr{
+    width: 478px;
+    opacity:0.25;
+    margin-left: 64px;
+    margin-top: 88px;
+    
+}
+.cuadroMenu{
+background:rgba(255,255,255,0.04);
+padding: 39px 123px;
+backdrop-filter: blur(61.5485px);
+width:830px;
+margin-top: 40px;
+}
+span{
+    font-weight: bold;
+}
+.logo{
+margin-top: 64px;
+margin-left: 55px;
+}
+
+
